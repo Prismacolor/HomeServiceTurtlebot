@@ -28,7 +28,7 @@ turtlebot_simulator: This launches a Gazebo model of the Turtlebot world.
 
 urdf: Contains files for another robotI built in previous projects, which can be used here instead of the Turtlebot. 
 
-wall_follower: creates a localization node that allows the robot to follow along walls. 
+wall_follower: Creates a localization node that allows the robot to follow along walls. 
 
 
 
