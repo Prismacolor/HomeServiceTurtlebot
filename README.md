@@ -3,6 +3,7 @@
 This is the final project in the Udacity Robotics Engineering Nanodegree. The goal of this project is to create a robot that maps its environment and then 
 is able to navigate to a goal, pick up an object, and drop the object off at a specified location. 
 
+
 The modules in this project are as follows:
 
 World: This contains map and world files from a previous project which can be used instead of the Turtlebot environment.
@@ -28,6 +29,7 @@ turtlebot_simulator: This launches a Gazebo model of the Turtlebot world.
 urdf: Contains files for another robotI built in previous projects, which can be used here instead of the Turtlebot. 
 
 wall_follower: creates a localization node that allows the robot to follow along walls. 
+
 
 
 The main script for this project is located in the scripts folder: home_service.sh. This spawns a Turtlebot in its environment as well as a nearby marker, created 
